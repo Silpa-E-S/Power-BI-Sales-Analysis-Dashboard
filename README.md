@@ -14,7 +14,11 @@ This project is an interactive Power BI dashboard created to analyze sales and p
  -Technology category has the highest sales.
  -Some sub-categories generate lower profit.
  -Sales show an increasing trend over time.
-##Tools Used
+## Tools Used
  -Power BI
  -CSV Dataset
+## Author
+Silpa E S
+## Dashboard Preview
+![Dashboard](sales and profit dashboard.png)
  
