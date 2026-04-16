@@ -20,5 +20,5 @@ This project is an interactive Power BI dashboard created to analyze sales and p
 ## Author
 Silpa E S
 ## Dashboard Preview
-![Dashboard]("D:\sales and profit dashboard.png")
+![Dashboard]("sales and profit dashboard.png")
  
