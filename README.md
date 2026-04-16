@@ -11,12 +11,12 @@ This project is an interactive Power BI dashboard created to analyze sales and p
  - State-wise Sales Map
  - Interactive Slicers for filtering by Date,Category,Segment, and State
 ## Insights
-  -Technology category has the highest sales.
-  -Some sub-categories generate lower profit.
-  -Sales show an increasing trend over time.
+ - Technology category has the highest sales.
+ - Some sub-categories generate lower profit.
+ - Sales show an increasing trend over time.
 ## Tools Used
-  -Power BI
-  -CSV Dataset
+  - Power BI
+  - CSV Dataset
 ## Author
 Silpa E S
 
